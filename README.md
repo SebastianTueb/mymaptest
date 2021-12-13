@@ -1,2 +1,3 @@
 # mymaptest
- 
+ +- Strichpunkt
++* Strichpunkt
